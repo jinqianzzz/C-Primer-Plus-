@@ -1,5 +1,6 @@
 /*Q7--µπ–Ú¥Ú”°µ•¥ */
 #include <stdio.h>
+#include <string.h>
 int main(void)
 {
 	int i = 0;
